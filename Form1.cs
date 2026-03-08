@@ -11,11 +11,6 @@ namespace TP_MODUL3_103022400073
             InitializeComponent();
         }
 
-        private void tampilkanAngka(string angka)
-        {
-            output.Text += angka;
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
             output.Text += "1";
