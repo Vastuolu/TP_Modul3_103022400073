@@ -1,0 +1,17 @@
+D:\Programming\C#\TP_MODUL3_103022400073\bin\Debug\net10.0-windows\TP_MODUL3_103022400073.exe
+D:\Programming\C#\TP_MODUL3_103022400073\bin\Debug\net10.0-windows\TP_MODUL3_103022400073.deps.json
+D:\Programming\C#\TP_MODUL3_103022400073\bin\Debug\net10.0-windows\TP_MODUL3_103022400073.runtimeconfig.json
+D:\Programming\C#\TP_MODUL3_103022400073\bin\Debug\net10.0-windows\TP_MODUL3_103022400073.dll
+D:\Programming\C#\TP_MODUL3_103022400073\bin\Debug\net10.0-windows\TP_MODUL3_103022400073.pdb
+D:\Programming\C#\TP_MODUL3_103022400073\obj\Debug\net10.0-windows\TP_MODUL3_103022400073.Form1.resources
+D:\Programming\C#\TP_MODUL3_103022400073\obj\Debug\net10.0-windows\TP_MODUL3_103022400073.csproj.GenerateResource.cache
+D:\Programming\C#\TP_MODUL3_103022400073\obj\Debug\net10.0-windows\TP_MODUL3_103022400073.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\TP_MODUL3_103022400073\obj\Debug\net10.0-windows\TP_MODUL3_103022400073.AssemblyInfoInputs.cache
+D:\Programming\C#\TP_MODUL3_103022400073\obj\Debug\net10.0-windows\TP_MODUL3_103022400073.AssemblyInfo.cs
+D:\Programming\C#\TP_MODUL3_103022400073\obj\Debug\net10.0-windows\TP_MODUL3_103022400073.csproj.CoreCompileInputs.cache
+D:\Programming\C#\TP_MODUL3_103022400073\obj\Debug\net10.0-windows\TP_MODUL3_103022400073.sourcelink.json
+D:\Programming\C#\TP_MODUL3_103022400073\obj\Debug\net10.0-windows\TP_MODUL3_103022400073.dll
+D:\Programming\C#\TP_MODUL3_103022400073\obj\Debug\net10.0-windows\refint\TP_MODUL3_103022400073.dll
+D:\Programming\C#\TP_MODUL3_103022400073\obj\Debug\net10.0-windows\TP_MODUL3_103022400073.pdb
+D:\Programming\C#\TP_MODUL3_103022400073\obj\Debug\net10.0-windows\TP_MODUL3_103022400073.genruntimeconfig.cache
+D:\Programming\C#\TP_MODUL3_103022400073\obj\Debug\net10.0-windows\ref\TP_MODUL3_103022400073.dll
